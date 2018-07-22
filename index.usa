@@ -13,6 +13,7 @@
         </park>
         <museum class="science" id="MuseumOfNaturalHistory">
         </museum>
+        <landmark id="chargingBull" />
       </area>
 
       <area class="borough" id="Queens">
